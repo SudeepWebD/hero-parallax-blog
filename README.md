@@ -60,7 +60,7 @@ This approach gives a smooth and immersive visual experience **without JavaScrip
 ```bash
 git clone <your-repository-url>
 cd <repository-folder-name>
-code .yhtn
+code .
 ```
 
 ### **2️⃣ Install Live Server Extension**
