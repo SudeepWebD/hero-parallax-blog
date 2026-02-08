@@ -80,6 +80,10 @@ code .yhtn
 
 ---
 
+🔗 **Live Demo:** https://sudeepwebd.github.io/hero-parallax-blog/
+
+---
+
 © 2026 · Made with curiosity, calm vibes & Goa 🌴
 
 
